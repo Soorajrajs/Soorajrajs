@@ -1,4 +1,4 @@
-<img  alt="hEAD iMAGE" width="400" src="https://thumbs.dreamstime.com/b/python-programming-language-application-development-coding-internet-technology-concept-218308796.jpg">
+<img  alt="hEAD iMAGE" width="1200" src="https://thumbs.dreamstime.com/b/python-programming-language-application-development-coding-internet-technology-concept-218308796.jpg">
 <h1 align="center">Hi 👋, I'm Sooraj Raj S</h1>
 <h3 align="center">A passionate Backend Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">

@@ -1,8 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sooraj Raj S</h1>
 <h3 align="center">A passionate Backend Python developer from India</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/Soorajrajs/Soorajrajs/assets/150435778/7ecedd92-066a-4271-857f-925360f658ab)
-">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 - 🌱 I’m currently learning **Javascript,React,MongoDB**
 

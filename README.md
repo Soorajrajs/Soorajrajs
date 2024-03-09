@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I Am Sooraj Raj S<br>A passionate Backend Python Developer <br>🌱 I’m currently learning JavaScript, React, MongoDB<br>💬 Ask me about Python, Django, Flask<br>📫 You can reach me soorajrajs98@gmail.com
+Hi, I Am Sooraj Raj S<br>A passionate Backend Python Developer <br>🌱 I’m currently learning JavaScript, React, MongoDB 💬 Ask me about Python, Django, Flask 📫 You can reach me soorajrajs98@gmail.com
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 

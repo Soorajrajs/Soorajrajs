@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 💫 About Me:
-<br>Hi, I Am Sooraj Raj S, a passionate <strong>Backend Python Developer</strong> with a strong background in building scalable web applications. I thrive on solving complex problems and am constantly seeking new challenges to expand my skill set.<hr>
+<br>Hi, I Am Sooraj Raj S, a passionate <strong>Backend Python Developer</strong> with a strong background in <strong>GIS</strong> and building scalable web applications. I thrive on solving complex problems and am constantly seeking new challenges to expand my skill set.<hr>
 <br>🌱 I’m currently learning JavaScript, React, MongoDB
 <br>💬 Ask me about Python, Django, Flask
 <br>📫 You can reach me soorajrajs98@gmail.com

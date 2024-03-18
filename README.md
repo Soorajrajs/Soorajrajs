@@ -2,7 +2,7 @@
 💫 About Me:
 <br>Hi, I Am Sooraj Raj S, a passionate <strong>Software Developer</strong> with a strong background in <strong>GIS, Python</strong> and building scalable web applications. I thrive on solving complex problems and am constantly seeking new challenges to expand my skill set.<hr>
 <br>🌱 I’m currently learning JavaScript, React, MongoDB,AWS
-<br>💬 Ask me about ArcGIS,QGIS,Python, Django, Flask,MySQL
+<br>💬 Ask me about ArcGIS, QGIS, Python, Django, Flask,MySQL
 <br>📫 You can reach me soorajrajs98@gmail.com
 
 
